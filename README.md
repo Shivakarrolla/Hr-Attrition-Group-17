@@ -1,4 +1,4 @@
-# Hr-Attrition
+# UNP-Project_BI-with-POWER-BI_Human-Resources
 Completed this project as part of my BI with PowerBI Course with United Network of Professionals (UNP)
 Worked on the HR attrition data 
 Analyzed on the Various Factors that are effecting the attrition rate of employees in the organization
